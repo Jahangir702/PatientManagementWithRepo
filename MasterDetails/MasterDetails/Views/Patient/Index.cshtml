@@ -1,0 +1,105 @@
+﻿@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common
+@model IEnumerable<Patient>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row">
+    <div class="col-12">
+        <h3>Patient List</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a href="@Url.Action("Create", "Patient")" class="btn btn-primary btn-sm">Create New</a>
+        </div>
+        <table class="table table-bordered table-striped ">
+            <thead class="table-light">
+                <tr class="text-light">
+                    <th><i class="bi bi-chevron-bar-expand"></i></th>
+                    <th>Patient Name</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Edit/Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr style="vertical-align:middle">
+                        <td class="text-center" style="width:50px">
+                            <button type="button" class="btn btn-light btn-sm show-q"><i class="bi bi-chevron-right"></i></button>
+                            <button type="button" class="btn btn-light btn-sm hide-q" style="display:none"><i class="bi bi-chevron-down"></i></button>
+                        </td>
+                        <td>@p.PatientName</td>
+                        <td>@p.Age</td>
+                        <td>@p.Gender</td>
+                        <td>
+                            <a href="@Url.Action("Edit", "Patient", new {id=p.PatientId})" class="btn btn-success btn-sm">Edit</a>
+                            <a href="@Url.Action("Delete", "Patient", new {id=p.PatientId})" class="btn btn-danger btn-sm del">Delete</a>
+                        </td>
+                    </tr>
+                    <tr style="display:none">
+
+                        <td colspan="7">
+                            <h4>Medicines</h4>
+                            <div style="max-height: 100px; overflow-y:auto">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Medicine Name</th>
+                                            <th>Quantity</th>
+                                            <th>Advice year</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var m in p.Medicines)
+                                        {
+                                            <tr>
+                                                <td>@m.MedicineName</td>
+                                                <td>@m.Quantity</td>
+                                                <td>@m.Advice</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            @Html.PagedListPager((IPagedList)Model, pg => Url.Action("Index", new { pg }), new PagedListRenderOptions
+       {
+           UlElementClasses = new string[] { "pagination", "pagination-sm" },
+           LiElementClasses = new string[] { "page-item" },
+           PageClasses = new string[] { "page-link" },
+           DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+           DisplayLinkToNextPage = PagedListDisplayMode.Always
+
+       })
+        </div>
+    </div>
+</div>
+
+@section styles
+{
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+}
+@section scripts
+{
+
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script>
+        $(".show-q").click(function () {
+            $(this).closest("tr").next().toggle();
+            $(this).toggle();
+            $(this).next().toggle();
+        });
+        $(".hide-q").click(function () {
+            $(this).closest("tr").next().toggle();
+            $(this).toggle();
+            $(this).prev().toggle();
+        });
+    </script>
+}
+

@@ -1,0 +1,236 @@
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\appsettings.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\libman.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.staticwebassets.runtime.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.exe
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.deps.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.runtimeconfig.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.pdb
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Humanizer.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.AssemblyInfo.cs
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.build.MasterDetails.props
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetails.props
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MasterDetails.props
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\bundle\MasterDetails.styles.css
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\projectbundle\MasterDetails.bundle.scp.css
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.CopyComplete
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\refint\MasterDetails.dll
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.pdb
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.genruntimeconfig.cache
+C:\Users\dell\Desktop\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\ref\MasterDetails.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.AssemblyInfo.cs
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\appsettings.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\libman.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.staticwebassets.runtime.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.exe
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.deps.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.runtimeconfig.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.pdb
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Humanizer.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\JetBrains.Annotations.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\X.PagedList.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.build.MasterDetails.props
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetails.props
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MasterDetails.props
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\bundle\MasterDetails.styles.css
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\projectbundle\MasterDetails.bundle.scp.css
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.CopyComplete
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\refint\MasterDetails.dll
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.pdb
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.genruntimeconfig.cache
+C:\Users\dell\Desktop\Others\Master Details Project\MasterDetails\MasterDetails\obj\Debug\net7.0\ref\MasterDetails.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\appsettings.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\libman.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.staticwebassets.runtime.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.exe
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.deps.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.runtimeconfig.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\MasterDetails.pdb
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Humanizer.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\JetBrains.Annotations.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\X.PagedList.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.AssemblyInfo.cs
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.build.MasterDetails.props
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MasterDetails.props
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MasterDetails.props
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\bundle\MasterDetails.styles.css
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\scopedcss\projectbundle\MasterDetails.bundle.scp.css
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.csproj.CopyComplete
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\refint\MasterDetails.dll
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.pdb
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\MasterDetails.genruntimeconfig.cache
+C:\Users\dell\Desktop\Exam Preparation\Master Details High(Repo)\MasterDetails\MasterDetails\obj\Debug\net7.0\ref\MasterDetails.dll

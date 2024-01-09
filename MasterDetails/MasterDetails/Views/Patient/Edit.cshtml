@@ -1,0 +1,97 @@
+﻿@model PatientEditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+    <div class="col-12">
+        <form asp-action="Edit" asp-controller="Patient" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="PatientId" />
+            <div class="form-group row mb-1">
+                <label asp-for="PatientName" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                <div class="col-6">
+                    <input type="text" asp-for="PatientName" class="form-control form-control-sm" />
+                    <span asp-validation-for="PatientName" class="text-danger" style="font-size:small" />
+                </div>
+            </div>
+           
+            <div class="form-group row mb-1">
+                <label asp-for="Age" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                <div class="col-6">
+                    <input type="number" asp-for="Age" class="form-control form-control-sm" />
+                    <span asp-validation-for="Age" class="text-danger" style="font-size:small" />
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="Gender" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                <div class="col-6">
+                    <select type="text" asp-for="Gender" class="form-select form-select-sm"
+                            asp-items="Html.GetEnumSelectList<Gender>()">
+                        <option value="" selected>Choose one</option>
+                    </select>
+                    <span asp-validation-for="Gender" class="text-danger" style="font-size:small" />
+                </div>
+            <div class="form-group row mb-1">
+                <div class="col-10">
+                    <h4>Medicines</h4>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Medinice Name</th>
+                                <th>Quantity</th>
+                                <th>Advice Year</th>
+                                <th>
+                                    <button type="submit" formnovalidate name="act" value="add" class="btn btn-sm btn-secondary">Add</button>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (var i = 0; i < Model.Medicines.Count; i++)
+                            {
+                                <tr>
+                                    <td>
+                                            <input asp-for="@Model.Medicines[i].MedicineName" class="form-control form-control-sm" />
+                                            <span asp-validation-for="@Model.Medicines[i].MedicineName" class="text-danger" style="font-size:small" />
+                                    </td>
+                                    <td>
+                                            <input asp-for="@Model.Medicines[i].Quantity" class="form-control form-control-sm" />
+                                            <span asp-validation-for="@Model.Medicines[i].Quantity" class="text-danger" style="font-size:small" />
+                                    </td>
+                                    <td>
+                                            <input asp-for="@Model.Medicines[i].Advice" class="form-control form-control-sm" />
+                                            <span asp-validation-for="@Model.Medicines[i].Advice" class="text-danger" style="font-size:small" />
+                                    </td>
+                                    <td>
+                                        <button type="submit" class="btn btn-danger btn-sm" formnovalidate name="act" value="remove_@i">Del</button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-10">
+                    <div class="d-flex justify-content-between">
+                        <button class="btn btn-secondary"><a asp-action="Index" asp-controller="Patient" style="color:white; text-decoration:none;">Back to Home</a></button>
+
+                        <button type="submit" class="btn btn-primary" name="act" value="update">Save</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Styles
+{
+    <link href="~/lib/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+
+}
+@section Scripts
+{
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/lib/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+}
